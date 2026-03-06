@@ -16,7 +16,7 @@
 
 ```
 a-stock-t1-trader/
-├── SKILL.md                              # 主技能文件（工作流 + 触发逻辑）
+├── SKILL.md                              # 主技能文件   (工作流 + 触发逻辑）
 └── references/
     ├── scoring-system.md                  # 六维评分体系详细标准
     ├── discipline-rules.md                # 交易纪律速查手册
